@@ -1,0 +1,44 @@
+*, body{
+    font-family: "Segoe UI", 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.title_text {
+    text-align: center;
+    text-decoration:underline;
+    font-size: 28px;
+}
+.padding_block{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.paragrah{
+    font-weight: 400;
+    font-size: 20px;
+}
+.main_button{
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+}
+.registred{
+    font-weight: 400;
+    font-size: 18px;
+}
+.main_table{
+    width: 100%;
+    text-align: left;
+}
+table, th, td, tr{
+    border: 1px solid black
+}
+.search{
+    margin-top: 30px;
+    display: grid;
+}
+.enter_login{
+    color: red;
+    margin-bottom: 8px;
+    font-weight: 600;
+}
+.login_input{
+    width: min-content;
+}
